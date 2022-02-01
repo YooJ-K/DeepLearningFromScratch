@@ -1,3 +1,5 @@
+# 변수가 하나일 때  기울기
+
 import numpy as np
 import matplotlib.pylab as plt
 
