@@ -13,3 +13,4 @@
 
 ![밑바닥부터 시작하는 딥러닝-8](https://user-images.githubusercontent.com/55521930/153741750-8f62fdf7-f1b2-424c-ad46-14dea7365048.jpg)
 ![밑바닥부터 시작하는 딥러닝-9](https://user-images.githubusercontent.com/55521930/153741747-24e3f296-5a97-48ec-8f4f-cf68ae1393f8.jpg)
+![밑바닥부터 시작하는 딥러닝-10](https://user-images.githubusercontent.com/55521930/155278948-2a7bb35e-3252-40e7-bad2-b3fac2a49964.jpg)
